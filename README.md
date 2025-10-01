@@ -70,9 +70,9 @@
 ## Совместная работа:
 
 Работать одному, конечно хорошо, но вдвоем веселее, так что надо бы узнать, а как это делается. Да, к сожалению, просто сказать, что вы работаете сообща не получится.
-![[./resourses/repo_page.png]]
+![repo page](./resourses/repo_page.png)
 На главной странице (если вам повезло) у вас будет кнопка *`Invite collaborators`*, если кнопки нет, а страница выглядит так:
-![[./resourses/another_repo_page.png]]
+![Another repo page](./resourses/another_repo_page.png)
 Тыкаем на *`Settings`*, а далее у всех шаги одинаковые ![Settings colab](./resourses/settings_collab.png)
 
 1. Во вкладке *`Collaborators`* нажимаем на кнопку *`Add people`*, в поле поиска пишем никнейм вашего "коллеги" и отправляем ему приглашение в проект.
